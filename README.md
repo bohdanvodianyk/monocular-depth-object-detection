@@ -2,6 +2,7 @@
 <p align="center">
   <img src="examples/frame_0027.jpg" alt="Example" height="400"/>
 </p>
+
 ## Overview
 
 This repository provides a robust pipeline for monocular depth estimation and object detection using deep learning. It integrates:
